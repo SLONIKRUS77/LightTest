@@ -1,0 +1,12 @@
+[project]
+name = "lighttest-cli"
+version = "1.0.0"
+description = "A lightweight command-line network speed test"
+requires-python = ">=3.8"
+dynamic = ["scripts"]
+dependencies = [
+    "pyinstaller>=6.11.0",
+    "requests>=2.31.0",
+    "rich>=13.7.0",
+    "speedtest-cli>=2.1.3",
+]
