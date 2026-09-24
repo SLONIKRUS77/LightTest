@@ -9,6 +9,9 @@ Cloudflare (`1.1.1.1`) and Google (`8.8.8.8`), and measures download and upload
 speeds using `speedtest-cli`. Results appear in a cyan-and-purple terminal box
 and can be saved locally as CSV, JSON, or text.
 
+![LightTest in Termux](Screenshot_20260925_020051_Termux.jpg)
+
+
 ## Requirements
 
 - Python 3.8 or later
